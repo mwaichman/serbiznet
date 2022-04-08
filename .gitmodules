@@ -22,3 +22,8 @@
 	path = ingadhoc/miscellaneous
 	url = git@github.com:ingadhoc/miscellaneous.git
 	branch = 15.0
+
+[submodule "ingadhoc/project"]
+	path = ingadhoc/project
+	url = git@github.com:ingadhoc/project.git
+	branch = 15.0
