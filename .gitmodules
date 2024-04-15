@@ -57,3 +57,7 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 15.0
+[submodule "waikiservicios/account"]
+	path = waikiservicios/account
+	url = git@github.com:waikiservicios/account.git
+	branch = 15.0
